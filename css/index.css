@@ -1,0 +1,37 @@
+
+body {
+    background-color:#FEFBF6;
+    
+  }
+  
+  h1,h2,h3,h4,h5,h6 {
+    font-family:Tahoma,sans-serif;
+    color:#A6D1E6;
+    text-align: center;
+}
+
+p{
+    font-family:Tahoma,sans-serif;
+    color:#7F5283 ;
+   text-align: center;
+}
+
+a{
+    font-family: Tahoma,sans-serif;
+    color:#3D3C42;
+    text-align: center;
+}
+li{ font-family:Tahoma,sans-serif;
+    color:#7F5283 ;
+    
+ 
+}
+ 
+img{
+    margin:left 0%;
+    margin:right 0%;
+
+    text-align: center;
+
+}
+    
